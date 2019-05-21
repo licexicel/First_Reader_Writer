@@ -1,14 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
+# First_Reader_Writer
+# can multi read but one write at the same time 
 
 import threading,random,time,sys
 data = 500
