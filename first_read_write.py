@@ -86,15 +86,3 @@ while 1:
         print("Total write counts:%d"%(wcount))
         print("Total read  counts:%d"%(rcount) )
         sys.exit()
-
-
-
-
-        
-
-
-# In[ ]:
-
-
-
-
